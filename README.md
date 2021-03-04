@@ -1,2 +1,2 @@
 # Hog
-Functional dice game through CS61A
+Functional dice game through CS61A using python
